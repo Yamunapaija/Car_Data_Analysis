@@ -1,0 +1,1 @@
+In "Programming in Python for Data Science," tasks cover Python basics, data preprocessing, exploratory analysis, and Python classes. This involves importing libraries, loading, displaying, cleaning data, creating new columns, deriving insights, and executing a Tournament class for practical application.
