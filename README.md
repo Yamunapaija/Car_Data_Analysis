@@ -1,6 +1,6 @@
 # Programming in Python for Data Science
 
-Welcome to the "Programming in Python for Data Science" course repository! This repository contains a series of tasks designed to provide practical experience in key aspects of data science using Python.
+Welcome to the "Programming in Python for Data Science" repository! This repository contains a series of tasks designed to provide practical experience in key aspects of data science using Python.
 
 ## Course Overview
 
