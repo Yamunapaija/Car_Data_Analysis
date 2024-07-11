@@ -2,9 +2,9 @@
 
 Welcome to the "Programming in Python for Data Science" repository! This repository contains a series of tasks designed to provide practical experience in key aspects of data science using Python.
 
-## Course Overview
+## Overview
 
-The course is structured into several phases, each focusing on essential skills necessary for data analysis and manipulation.
+It is structured into several phases, each focusing on essential skills necessary for data analysis and manipulation.
 
 ### Task 1 and Task 2: Fundamental Python Operations
 
